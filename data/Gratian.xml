@@ -64,9 +64,54 @@
         </div>
       </div>
       <div n="2" type="part">
-      </div>
+        <div n="4" type="case">
+	  <head>(Causa 4)</head>
+	  <div type="dictum_init">
+	    <head>(C.4 d.init)</head>
+	      <ab>[Quidam] in excomunicatione constitutus episcopum
+	      accusare disponit, adolescentem infra xiiiium etatis
+	      sue annum ad assertionem sue cause adducit. Prohibitus
+	      ab accusatione adolescentem accusatorem, et se testem
+	      facit. Adolescens personam accusatoris et testis
+	      gerere cupit, di statuta ad iudicium electorum iudicium
+	      episcopus minime concurrit a co[mmun]io[n]e suspendere,
+	      tandem renouato iudicio, accusator culpabilis in
+	      accusatione inuenitur, demum ad assertionem proprie
+	      cause procedit. Hic primum queritur an in excommunicatione
+	      constitutus alium accusare ualeat. Secundo autem infra
+	      [infra] xiiiium. annum in criminari causa testari,
+	      quis possit. Tercio, utrum accusatione prohibitus
+	      personam testificantis possit assumere. Quarto, aut
+	      [?] die constituta non occurrens a communione sit
+	      remouendus. Sexto, si in episcoporum indicio accusatoris
+	      persona culpabilis inuenta fuerit, an ad assertionem
+	      proprie cause, de cetero sit admittenda.</ab>
+	  </div>
+	  <div n="1" type="question">
+            <div n="1" type="dictum_ante">
+	    </div>
+	  </div> <!-- end of question -->
+	  <div n="2 et 3" type="question">
+            <div n="1" type="dictum_ante">
+	    </div>
+	  </div> <!-- end of question -->
+	  <div n="4" type="question">
+            <div n="1" type="dictum_ante">
+	    </div>
+	  </div> <!-- end of question -->
+	  <div n="5" type="question">
+            <div n="1" type="dictum_ante">
+	    </div>
+	  </div> <!-- end of question -->
+	  <div n="6" type="question">
+            <div n="1" type="dictum_ante">
+	    </div>
+	  </div> <!-- end of question -->
+	</div> <!-- end of case 4 -->
+      </div> <!-- end of part 2 -->
       <div n="3" type="part">
       </div>
     </body>
   </text>
 </TEI>
+
