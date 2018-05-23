@@ -96,6 +96,7 @@
               faustinus romane ecclesie legatus.</ab>
             </div> <!-- end of C.4 q.1 d.a.c.1 -->
             <div n="1" type="canon"> <!-- C.4 q.1 c.1 -->
+              <head>(C.4 q.1 c.1)</head>
               <div type="canon_rubric">
                 <ab>Ad accusandum non admittatur qui in excommunicationem
                 perseuerat.</ab>
@@ -111,10 +112,39 @@
               </div>
             </div>
           </div> <!-- end of C.4 q.1 -->
-          <div n="2 et 3" type="question">
-            <div n="1" type="dictum_ante">
-            </div>
-          </div> <!-- end of question -->
+          <div n="2 et 3" type="question"> <!-- C.4 q.2-3 -->
+            <head>(Questio 2 et 3)</head>
+            <div n="1" type="dictum_ante"> <!-- start C.4 q.2-3 d.a.c.1 -->
+              <head>(C.4 q.2-3 d.a.c.1)</head>
+              <ab>Secunda autem et tercia questio eodem concilio
+              uno eodemque capitulo terminatur. Illud uero est
+              huiusmodi.</ab>
+            </div> <!-- end C.4 q.2-3 d.a.c.1 -->
+            <div n="1" type="canon"> <!-- start C.4 q.2-3 c.1 -->
+              <head>(C.4 q.2-3 c.1)</head>
+              <div type="canon_rubric">
+                <ab>Qui ab accusatione repelluntur aut ad annum
+                xiiii. nondum peruenerunt testes esse non possunt.</ab>
+              </div>
+              <div type="canon_text">
+                <ab>Testes autem ad testimonium admittendo censemus
+                qui nec ad accusationem admitti iussi sunt, uel
+                etiam quos ipse accusator de domo sua produxerit.
+                Ad testimonium autem intra annos xiiii etatis sue
+                constituti non admittantur.</ab>
+              </div>
+            </div> <!-- end C.4 q.2-3 c.1 -->
+            <div n="3" type="canon"> <!-- start C.4 q.2-3 c.3 -->
+              <div type="dictum_post"> <!-- start C.4 q.2-3 d.p.c.3 -->
+                <head>(C.4 q.2-3 d.p.c.3)</head>
+                <ab>Sed obicitur illud beati bricii, qui uoce pueri
+                xxx dies ab hortu habentis innocens probatus est.
+                Sed miracula diuina sunt admiranda non in exemplum
+                humane acc[ti?]onis trahenda.</ab>
+              </div> <!-- end C.4 q.2-3 d.p.c.3 -->
+            </div> <!-- start C.4 q.2-3 c.3 -->
+          </div> <!-- end C.4 q.2-3 -->
+
           <div n="4" type="question">
             <div n="1" type="dictum_ante">
             </div>
