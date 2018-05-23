@@ -186,11 +186,46 @@
               </div>
             </div> <!-- end C.4 q.4 c.2 -->
           </div> <!-- end C.4 q.4 -->
+          <div n="5" type="question"> <!-- start C.4 q.5 -->
+            <head>(C.4 q.5)</head>
+            <div n="1" type="dictum_ante"> <!-- start C.4 q.5 d.a.c.1 -->
+              <head>(C.4 q.5 d.a.c.1)</head>
+                <ab>De v uero questione in concilio cartaginensi
+                tercio sic inuenenitur [?] diffinitum.</ab>
+            </div> <!-- end C.4 q.5 d.a.c.1 -->
+            <div n="1" type="canon"> <!-- start C.4. q.5 c.1 -->
+              <head>(C.4 q.5 c.1)</head>
+              <div type="canon_rubric">
+                <ab>Non est a co[mmuni]one suspendendus qui die
+                statua ad causam peruenire non potuit.</ab>
+              </div>
+              <div type="canon_text">
+                <ab>Quisquis episcoporum accusatur ad primates
+                prouince ipsius causam deferat accusator. Nec a
+                communione suspendatur, cui crimen intenditur, nisi
+                ad causam suam dicendam, electorum iudicium, die
+                statua litteris euocatus minime occurrerit. Hoc est
+                infra [infra?] spatium mensis. ex ea die qua eum
+                litteras accepisse constiterit. Quod si aliquas
+                ueras necessitatis causas propriau[er?]it quibus
+                occurrere non potuisse manifestum sit cause sue
+                dicende, intra alterem mensem integram habeat
+                facultatem. Verum tamdiu post mensem secundum non
+                communicet, donec purgetur. Si autem ad uniuersale
+                concilium [anniuersalium?] occurrere uoluit, ut uel
+                ibi causa eius terminetur, ipse in se dampnationis
+                sentatiam dixisse iudecitur. Tempore sane quo non
+                communicat, nec in sua ecclesia uel parocchia
+                communicet. Accusator autem eius si numquam diebus
+                cause dicende defuerit subtrahens se, restituto in
+                communione episcopo, remoueater a communione
+                accusator, ita tamen, ut nec ipsi adimatur facultas
+                cause peragende, si se ad diem non uoluisse sed non
+                potuisse occurrere probauerit.</ab>
+              </div>
+            </div> <!-- end C.4. q.5 c.1 -->
+          </div> <!-- end C.4 q.5 -->
 
-          <div n="5" type="question">
-            <div n="1" type="dictum_ante">
-            </div>
-          </div> <!-- end of question -->
           <div n="6" type="question">
             <div n="1" type="dictum_ante">
             </div>
