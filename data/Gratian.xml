@@ -144,11 +144,49 @@
               </div> <!-- end C.4 q.2-3 d.p.c.3 -->
             </div> <!-- start C.4 q.2-3 c.3 -->
           </div> <!-- end C.4 q.2-3 -->
+          <div n="4" type="question"> <!-- start C.4 q.4 -->
+            <head>(C.4 q.4)</head>
+            <div n="1" type="dictum_ante"> <!-- start C.4 q.4 d.a.c.1 -->
+              <head>(C.4 q.4 d.a.c.1)</head>
+              <ab>De quarta uero questione fabianus papa constituit
+              dicens:</ab>
+            </div> <!-- end C.4 q.4 d.a.c.1 -->
+            <div n="1" type="canon"> <!-- start C.4 q.4 c.1 -->
+              <head>(C.4 q.4 c.1)</head>
+              <div type="canon_rubric">
+                <ab>Accusator testis uel iudex aliquis simul esse
+                non potest.</ab>
+              </div>
+              <div type="canon_text">
+                <ab>Nullus umquam presumat accusator simul esse,
+                et iudex, uel testis, quam in omni iudicio iiiior
+                [i.e., quatuor] personas semper necesse est esse,
+                in iudices, electos, et accusatores, ac defensores,
+                atque testes.</ab>
+              </div>
+            </div> <!-- end C.4 q.4 c.1 -->
+            <div n="2" type="canon"> <!-- start C.4 q.4 c.2 -->
+              <head>(C.4 q.4 c.2)</head>
+              <div type="canon_inscription">
+                <ab>Item damasus papa.</ab>
+              </div>
+              <div type="canon_rubric">
+                <ab>Quilibet in causa duas personas gerere non ualet.</ab>
+              </div>
+              <div type="canon_text">
+                <ab>Nullus introducatur personaliter ad [ca?]usam
+                sed accusatores, et accusati equa audiantur, ratione,
+                iuxta, quod ordo exigit. Accusatores uero, et
+                iudices non idem sint, sed per se iudices, per se
+                testes, per se accusati unusquisque in suo ordine.
+                Inscriptio semper fiat ut talionem calumpniator
+                recipiat. Quia ante inscriptionem nemo debet indicari
+                [iudicari?] uel dampnari, cum et seculi [?] leges
+                hec eadem retieneant [?].</ab>
+              </div>
+            </div> <!-- end C.4 q.4 c.2 -->
+          </div> <!-- end C.4 q.4 -->
 
-          <div n="4" type="question">
-            <div n="1" type="dictum_ante">
-            </div>
-          </div> <!-- end of question -->
           <div n="5" type="question">
             <div n="1" type="dictum_ante">
             </div>
