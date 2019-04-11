@@ -10,17 +10,16 @@
         <title>Decretum Gratiani</title>
         <author>Gratian, active 12th century</author>
         <editor>Paul Evans</editor>
+        <editor>Emily Bolender</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Stephan Kuttner Institute</publisher>
         <date>2020</date>
-        <!--
         <availability>
-          <license target="https://creativecommons.org/licenses/by/4.0/">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
             Distributed under a Creative Commons Attribution 4.0 International License.
-          </license>
+          </licence>
         </availability>
-          -->
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -78,7 +77,7 @@
           admittenda.</ab>
         </div> <!-- end C.4 d.init. -->
         <div type="section"> <!-- start C.4 q.1 -->
-          <head>(Questio 1)</head>
+          <head>(C.4 q.1)</head>
           <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
             <head>(C.4 q.1 d.a.c.1)</head>
             <ab>De prima questione sic statutum legitur, in concilio
@@ -103,7 +102,7 @@
           </div> <!-- end C.4 q.1 c.1 -->
         </div> <!-- end C.4 q.1 -->
         <div type="section"> <!-- start C.4 q.2-3 -->
-          <head>(Questio 2 et 3)</head>
+          <head>(C.4 q.2-3)</head>
           <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
             <head>(C.4 q.2-3 d.a.c.1)</head>
             <ab>Secunda autem et tercia questio eodem concilio uno eodemque
